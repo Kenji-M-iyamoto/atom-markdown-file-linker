@@ -2,7 +2,6 @@
 
 **Just d&d file to atom text editor, then link to dropped file is inserted automatically!**
 
-![ss](https://github.com/Kenji-M-iyamoto/atom-markdown-file-linker/blob/cc1791f907a3e976b03165dce043f6ce875623dc/Animation.gif)
 ![ss](Animation.gif)
 ### 1. Description
  **markdown-file-linker is made to enhance possibility of markdown life**.
