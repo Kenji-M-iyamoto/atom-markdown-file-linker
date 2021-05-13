@@ -5,13 +5,13 @@
   "description": "Just d&d file to atom text editor, then link to dropped file is inserted automatically!",
   "keywords": ["atom","package","markdown","drop","file","link"
   ],
-  "repository": "https://github.com/Kenji-M-iyamoto/atom-markdown-file-linker.git",
+  "repository": "https://github.com/Kenji-M-iyamoto/atom-markdown-file-linker",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "author": {
-  "name": "Kenji Miyamoto",
+  "name": "Kenji-M-iyamoto",
   "email": "kenzi1323@gmail.com"
 },
   "dependencies": {
