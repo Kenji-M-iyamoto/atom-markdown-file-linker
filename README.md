@@ -2,12 +2,12 @@
 
 **Just d&d file to atom text editor, then link to dropped file is inserted automatically!**
 
-![ss](https://raw.githubusercontent.com/Kenji-M-iyamoto/atom-markdown-file-linker/master/Animation.gif)
+![ss](https://i.imgur.com/sFyCT7m.gif)
 ### 1. Description
  **markdown-file-linker is made to enhance possibility of markdown life**.
  When you use markdown for presentation, meeting minutes, or even just memo,
  you can manage a lot of files and materials with this extention!
- This package performs:
+ This package performs:  
 -copy file to particular directory(same name dir as md filename)  
 -and then add \<a\> tag link to your markdown file  
 when somewhat file(s) is dropped to atom textEditor area.  
