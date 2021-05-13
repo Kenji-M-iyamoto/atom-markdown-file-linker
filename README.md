@@ -2,7 +2,7 @@
 
 **Just d&d file to atom text editor, then link to dropped file is inserted automatically!**
 
-![A screenshot of your package](animation.gif)
+![A screenshot of your package](./animation.gif)
 
 ###1. Description
  **markdown-file-linker is made to enhance possibility of markdown life**.
