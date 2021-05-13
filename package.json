@@ -1,7 +1,7 @@
 {
   "name": "markdown-file-linker",
   "main": "./lib/markdown-file-linker",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Just d&d file to atom text editor, then link to dropped file is inserted automatically!",
   "keywords": [
     "atom",
