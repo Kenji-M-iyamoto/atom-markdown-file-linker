@@ -29,5 +29,8 @@ when somewhat file(s) is dropped to atom textEditor area.
    - **Markdown Preview**: doesn't work even though "Allow Unsafe Protocols" option is checked
 
 ### 5. History
-**[version 1.0.0]**  
-  - release prototype
+**14 May, 2021**  
+- release prototype
+
+**16 Aug, 2021**
+- modify behavior when multiple files are dropped
